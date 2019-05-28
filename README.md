@@ -7,3 +7,12 @@ So you think: why not let Spring-Boot load the whole bean, but override that and
 It does not work :(
 
 This repo shows this.
+
+## How-to reproduce
+Execute
+
+```
+gradlew clean test
+```
+
+And will fail.
