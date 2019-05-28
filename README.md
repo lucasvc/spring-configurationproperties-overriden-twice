@@ -2,7 +2,7 @@
 
 ## UPDATE: Solved
 After opening [Spring Boot ticket #16982](https://github.com/spring-projects/spring-boot/issues/16982), a fast comment with the correct solution.
-Commit ... follows the guidelines of @wilkinsona fixing the issue.
+Commit #2f686e802c follows the guidelines of @wilkinsona fixing the issue.
 
 ## Use case
 You have a `.properties` file with a set of values, which are loaded into a fancy and typed `@Configuration` bean.
